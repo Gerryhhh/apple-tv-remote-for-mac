@@ -16,7 +16,7 @@ Microphone Edition (paid) lets you use the built-in microphone on a supported Ap
 
 ## Installation
 
-1. Download `VOXA-1.1.3-Build37.dmg` from [Releases](https://github.com/jinzongma/voxa/releases/latest).
+1. Download `VOXA-1.3.0-Build89.dmg` from [Releases](https://github.com/jinzongma/voxa/releases/latest).
 2. Double-click the DMG to open it.
 3. Drag `Voxa.app` into the Applications folder shown on the right.
 4. Open Applications in Finder and double-click `Voxa.app`.
@@ -48,7 +48,7 @@ In macOS System Settings → Bluetooth, confirm that the remote is paired and sh
 
 ## Version Information
 
-- Current version: **VOXA 1.1.3 (Build 37)**
+- Current version: **VOXA 1.3.0 (Build 89)**
 - Installer: Developer ID signed and notarized by Apple
 - SHA-256: `802e6bfaf06ddf395945de794ac96bb39fa850e8e9b628e127d56d4f69c1a1a7`
 

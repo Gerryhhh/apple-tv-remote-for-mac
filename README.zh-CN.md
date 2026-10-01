@@ -4,7 +4,7 @@
 
 > 把 Apple TV Siri Remote 变成顺手的 Mac 遥控输入设备。
 
-[![最新版本](https://img.shields.io/badge/最新版本-1.1.3%20(Build%2037)-007AFF)](https://github.com/jinzongma/voxa/releases/latest)
+[![最新版本](https://img.shields.io/badge/最新版本-1.3.0%20(Build%2089)-007AFF)](https://github.com/jinzongma/voxa/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-13%2B-111111?logo=apple)](https://github.com/jinzongma/voxa/releases/latest)
 [![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-支持-34C759)](https://github.com/jinzongma/voxa/releases/latest)
 
@@ -12,7 +12,7 @@ VOXA 支持遥控器按键映射、触控操作、快捷指令和按前台 App �
 
 ## 下载
 
-**[下载 VOXA 1.1.3（Build 37）](https://github.com/jinzongma/voxa/releases/latest)**
+**[下载 VOXA 1.3.0（Build 89）](https://github.com/jinzongma/voxa/releases/latest)**
 
 - 支持 Apple Silicon Mac
 - 需要 macOS 13 Ventura 或更高版本

@@ -4,7 +4,7 @@
 
 > Turn your Apple TV Siri Remote into a natural remote input device for your Mac.
 
-[![Latest release](https://img.shields.io/badge/latest-1.1.3%20(Build%2037)-007AFF)](https://github.com/jinzongma/voxa/releases/latest)
+[![Latest release](https://img.shields.io/badge/latest-1.3.0%20(Build%2089)-007AFF)](https://github.com/jinzongma/voxa/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-13%2B-111111?logo=apple)](https://github.com/jinzongma/voxa/releases/latest)
 [![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-supported-34C759)](https://github.com/jinzongma/voxa/releases/latest)
 
@@ -12,7 +12,7 @@ VOXA provides button mapping, touch controls, Shortcuts integration, and automat
 
 ## Download
 
-**[Download VOXA 1.1.3 (Build 37)](https://github.com/jinzongma/voxa/releases/latest)**
+**[Download VOXA 1.3.0 (Build 89)](https://github.com/jinzongma/voxa/releases/latest)**
 
 - Apple Silicon Mac
 - macOS 13 Ventura or later
