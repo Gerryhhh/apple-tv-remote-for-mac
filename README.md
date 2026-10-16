@@ -4,10 +4,10 @@
 
 <img src="./assets/images/voxa-icon.png" width="128" alt="Voxa app icon">
 
-# Voxa — Remote control your Mac, by voice too
+# Voxa — Apple TV Siri Remote for Mac, with Voice Control
 
-Turn the **Apple TV Siri Remote** into a remote control for your Mac.<br>
-Press, swipe, spin the ring — or **hold the Siri button and just say what you want**.
+**Remote control your Mac with the Apple TV Remote** — press, swipe, spin the ring,<br>
+or hold the Siri button and **just say what you want**.
 
 [![Latest release](https://img.shields.io/github/v/release/jinzongma/voxa?label=latest&color=007AFF)](https://github.com/jinzongma/voxa/releases/latest)
 [![macOS 13+](https://img.shields.io/badge/macOS-13%2B-111111?logo=apple)](https://github.com/jinzongma/voxa/releases/latest)
@@ -21,8 +21,10 @@ Press, swipe, spin the ring — or **hold the Siri button and just say what you 
 
 ![Voxa: remote control your Mac with the Apple TV Siri Remote, now with voice control](./assets/images/voxa-hero.png)
 
-**Voxa** is a macOS app that lets you **remote control your Mac with an Apple TV Siri Remote** — and **control your
-Mac by voice** through the remote's microphone. Pair the remote in Bluetooth settings and you're set: no Apple TV needed.
+**Voxa** is a macOS app that turns the **Apple TV Remote (Siri Remote)** into a **Mac remote control**: map buttons to
+keys and shortcuts, use the clickpad as a trackpad, spin the ring to switch apps, click through slides as a
+**presentation remote for Keynote and PowerPoint**, and — with Voice Pro — **control your Mac by voice** through the
+remote's microphone. Pair the remote in Bluetooth settings and you're set: no Apple TV needed.
 
 ## Voice control
 

@@ -4,10 +4,10 @@
 
 <img src="./assets/images/voxa-icon.png" width="128" alt="Voxa 图标">
 
-# Voxa：遥控你的 Mac，开口说也行
+# Voxa：用 Apple TV 遥控器控制 Mac，支持语音操控
 
-把 **Apple TV 的 Siri Remote** 变成 Mac 的遥控器。<br>
-按一下、滑一下、转外圈，或者**按住 Siri 键，直接说你要做什么**。
+把**苹果电视遥控器**（Siri Remote）变成 Mac 遥控器：按一下、滑一下、转外圈，<br>
+或者按住 Siri 键，**直接说你要做什么**。
 
 [![最新版本](https://img.shields.io/github/v/release/jinzongma/voxa?label=最新版本&color=007AFF)](https://github.com/jinzongma/voxa/releases/latest)
 [![macOS 13+](https://img.shields.io/badge/macOS-13%2B-111111?logo=apple)](https://github.com/jinzongma/voxa/releases/latest)
@@ -21,7 +21,8 @@
 
 ![Voxa：用 Apple TV Siri Remote 遥控 Mac，还能说话操控](./assets/images/voxa-hero.zh-CN.png)
 
-**Voxa** 是一款 macOS 应用，让你**用 Apple TV 遥控器（Siri Remote）遥控 Mac**，还能借遥控器上的麦克风**用语音操控 Mac**。
+**Voxa** 是一款 macOS 应用，把 **Apple TV 遥控器**（Siri Remote）变成 **Mac 遥控器**：按键映射成快捷键、触控板当鼠标、
+转外圈切换 App、给 Keynote 和 PPT 当**翻页笔**，开通 Voice Pro 后还能借遥控器上的麦克风**用语音操控 Mac**。
 在蓝牙设置里配对好遥控器就能用，不需要 Apple TV。
 
 ## 语音操控
