@@ -16,7 +16,7 @@ Microphone Edition (paid) lets you use the built-in microphone on a supported Ap
 
 ## Installation
 
-1. Download `VOXA-2.0.0-Build92.dmg` from [Releases](https://github.com/jinzongma/voxa/releases/latest).
+1. Download `VOXA-2.0.0-Build92.dmg` from [Releases](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest).
 2. Double-click the DMG to open it.
 3. Drag `Voxa.app` into the Applications folder shown on the right.
 4. Open Applications in Finder and double-click `Voxa.app`.

@@ -9,13 +9,13 @@
 把**苹果电视遥控器**（Siri Remote）变成 Mac 遥控器：按一下、滑一下、转外圈，<br>
 或者按住 Siri 键，**直接说你要做什么**。
 
-[![最新版本](https://img.shields.io/github/v/release/jinzongma/voxa?label=最新版本&color=007AFF)](https://github.com/jinzongma/voxa/releases/latest)
-[![macOS 13+](https://img.shields.io/badge/macOS-13%2B-111111?logo=apple)](https://github.com/jinzongma/voxa/releases/latest)
-[![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-支持-34C759)](https://github.com/jinzongma/voxa/releases/latest)
+[![最新版本](https://img.shields.io/github/v/release/jinzongma/apple-tv-remote-for-mac?label=最新版本&color=007AFF)](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)
+[![macOS 13+](https://img.shields.io/badge/macOS-13%2B-111111?logo=apple)](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)
+[![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-支持-34C759)](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)
 [![语音操控](https://img.shields.io/badge/语音操控-可用-AF52DE)](#语音操控)
-[![已公证](https://img.shields.io/badge/Apple-已公证-5856D6)](https://github.com/jinzongma/voxa/releases/latest)
+[![已公证](https://img.shields.io/badge/Apple-已公证-5856D6)](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)
 
-**[下载 Mac 版 Voxa（.dmg）](https://github.com/jinzongma/voxa/releases/latest)** · [官网](https://voxa.saitosun.cn) · [使用教程](./VOXA-User-Guide.zh-CN.md)
+**[下载 Mac 版 Voxa（.dmg）](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)** · [官网](https://voxa.saitosun.cn) · [使用教程](./VOXA-User-Guide.zh-CN.md)
 
 </div>
 
@@ -63,7 +63,7 @@
 
 ## 下载
 
-**[下载最新版 Voxa（.dmg）](https://github.com/jinzongma/voxa/releases/latest)**
+**[下载最新版 Voxa（.dmg）](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)**
 
 - Apple Silicon Mac（M1 及更新机型）
 - macOS 13 Ventura 或更高版本（语音操控需要 macOS 14 Sonoma 或更高版本）

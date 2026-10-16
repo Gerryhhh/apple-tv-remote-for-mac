@@ -9,13 +9,13 @@
 **Remote control your Mac with the Apple TV Remote** — press, swipe, spin the ring,<br>
 or hold the Siri button and **just say what you want**.
 
-[![Latest release](https://img.shields.io/github/v/release/jinzongma/voxa?label=latest&color=007AFF)](https://github.com/jinzongma/voxa/releases/latest)
-[![macOS 13+](https://img.shields.io/badge/macOS-13%2B-111111?logo=apple)](https://github.com/jinzongma/voxa/releases/latest)
-[![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-supported-34C759)](https://github.com/jinzongma/voxa/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/jinzongma/apple-tv-remote-for-mac?label=latest&color=007AFF)](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)
+[![macOS 13+](https://img.shields.io/badge/macOS-13%2B-111111?logo=apple)](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)
+[![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-supported-34C759)](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)
 [![Voice control](https://img.shields.io/badge/voice%20control-available-AF52DE)](#voice-control)
-[![Notarized](https://img.shields.io/badge/Apple-notarized-5856D6)](https://github.com/jinzongma/voxa/releases/latest)
+[![Notarized](https://img.shields.io/badge/Apple-notarized-5856D6)](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)
 
-**[Download Voxa for Mac (.dmg)](https://github.com/jinzongma/voxa/releases/latest)** · [Website](https://voxa.saitosun.cn) · [User guide](./VOXA-User-Guide.md)
+**[Download Voxa for Mac (.dmg)](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)** · [Website](https://voxa.saitosun.cn) · [User guide](./VOXA-User-Guide.md)
 
 </div>
 
@@ -66,7 +66,7 @@ Hold the Siri button, say it, let go. Voxa does it on your Mac:
 
 ## Download
 
-**[Download the latest Voxa (.dmg)](https://github.com/jinzongma/voxa/releases/latest)**
+**[Download the latest Voxa (.dmg)](https://github.com/jinzongma/apple-tv-remote-for-mac/releases/latest)**
 
 - Apple Silicon Mac (M1 or later)
 - macOS 13 Ventura or later (voice control needs macOS 14 Sonoma or later)
