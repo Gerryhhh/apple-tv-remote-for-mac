@@ -1,3 +1,5 @@
+流氓，放上github还收费
+
 <div align="center">
 
 **English** | [简体中文](./README.zh-CN.md)
